@@ -4,5 +4,6 @@
 <p>We will be deploying this manually.</p>
 <a href="about.jsp">About me</a><br>
 <a href="contact.jsp">Contact me</a>
+Just to see if it is working
 </body>
 </html>
